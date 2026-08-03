@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "WaterVannilasmp.aternos.me:61059",
+    "port": 61059,
     "version": "1.21.1"
   },
   "position": {
