@@ -8,7 +8,7 @@
   "server": {
     "ip": "WaterVannilasmp.aternos.me:61059",
     "port": 61059,
-    "version": "26.2"
+    "version": "1.21.2"
   },
   "position": {
     "enabled": true,
